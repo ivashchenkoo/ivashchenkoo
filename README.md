@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=ivashchenkoo&show_icons=true&count_private=true&hide_border=true" />
+<img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=ivashchenkoo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
+<img width="43%" align="left" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivashchenkoo&layout=compact&theme=dark" />
